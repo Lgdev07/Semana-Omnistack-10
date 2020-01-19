@@ -31,7 +31,7 @@
 
 <br>
 
-  <img alt="Frontend" src=".github/mobile.png" width="30%">
+  <img alt="Frontend" src=".github/mobile.png" width="20%">
   <img alt="Frontend" src=".github/web.png" width="50%">
 
 ## 🚀 Tecnologias
