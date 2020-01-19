@@ -24,9 +24,8 @@ function App() {
   }, [])
 
 
-  const handleAddDev = async (e) => {
-    e.preventDefault()
-
+  const handleAddDev = async (data) => {
+    
     const response = await api.post('/devs', data)
     
 
